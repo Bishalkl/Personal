@@ -1,0 +1,185 @@
+一 (One) - いち (Ichi)
+
+二 (Two) - に (Ni)
+
+三 (Three) - さん (San)
+
+四 (Four) - し/よん (Shi/Yon)
+
+五 (Five) - ご (Go)
+
+六 (Six) - ろく (Roku)
+
+七 (Seven) - しち/なな (Shichi/Nana)
+
+八 (Eight) - はち (Hachi)
+
+九 (Nine) - きゅう/く (Kyū/Ku)
+
+十 (Ten) - じゅう (Jū)
+
+百 (Hundred) - ひゃく (Hyaku)
+
+千 (Thousand) - せん (Sen)
+
+万 (Ten Thousand) - まん (Man)
+
+円 (Yen/Circle) - えん (En)
+
+口 (Mouth) - くち (Kuchi)
+
+目 (Eye) - め (Me)
+
+耳 (Ear) - みみ (Mimi)
+
+手 (Hand) - て (Te)
+
+足 (Foot/Leg) - あし (Ashi)
+
+木 (Tree) - き (Ki)
+
+山 (Mountain) - やま (Yama)
+
+川 (River) - かわ (Kawa)
+
+古 (Old) - ふる (Furu)
+
+新 (New) - あたらしい (Atarashii)
+
+大 (Big) - おおきい (Ōkii)
+
+小 (Small) - ちいさい (Chiisai)
+
+中 (Middle) - なか (Naka)
+
+上 (Up/Above) - うえ (Ue)
+
+下 (Down/Below) - した (Shita)
+
+右 (Right) - みぎ (Migi)
+
+左 (Left) - ひだり (Hidari)
+
+男 (Man) - おとこ (Otoko)
+
+女 (Woman) - おんな (Onna)
+
+子 (Child) - こ (Ko)
+
+人 (Person) - ひと (Hito)
+
+入 (Enter) - はいる (Hairu)
+
+出 (Exit/Leave) - でる (Deru)
+
+生 (Life) - いきる (Ikiru)
+
+死 (Death) - し/しん (Shi/Shin)
+
+目 (Eye) - め (Me)
+
+耳 (Ear) - みみ (Mimi)
+
+口 (Mouth) - くち (Kuchi)
+
+手 (Hand) - て (Te)
+
+足 (Foot/Leg) - あし (Ashi)
+
+日 (Sun/Day) - ひ (Hi)
+
+月 (Moon/Month) - つき (Tsuki)
+
+火 (Fire) - ひ (Hi)
+
+水 (Water) - みず (Mizu)
+
+木 (Tree) - き (Ki)
+
+金 (Gold/Metal) - かね (Kane)
+
+土 (Earth/Soil) - つち (Tsuchi)
+
+空 (Sky) - そら (Sora)
+
+風 (Wind) - かぜ (Kaze)
+
+雨 (Rain) - あめ (Ame)
+
+雪 (Snow) - ゆき (Yuki)
+
+花 (Flower) - はな (Hana)
+
+山 (Mountain) - やま (Yama)
+
+川 (River) - かわ (Kawa)
+
+海 (Sea) - うみ (Umi)
+
+空 (Empty) - から (Kara)
+
+人 (Person) - ひと (Hito)
+
+名 (Name) - な (Na)
+
+本 (Book) - ほん (Hon)
+
+学 (Study/Learn) - がく (Gaku)
+
+校 (School) - こう (Kō)
+
+先 (Before/Ahead) - さき (Saki)
+
+後 (Behind) - うしろ (Ushiro)
+
+友 (Friend) - とも (Tomo)
+
+車 (Car) - くるま (Kuruma)
+
+電 (Electricity) - でん (Den)
+
+車 (Car) - くるま (Kuruma)
+
+飛 (Fly) - とぶ (Tobu)
+
+走 (Run) - はしる (Hashiru)
+
+止 (Stop) - とまる (Tomaru)
+
+買 (Buy) - かう (Kau)
+
+売 (Sell) - うる (Uru)
+
+行 (Go) - いく (Iku)
+
+来 (Come) - くる (Kuru)
+
+見 (See) - みる (Miru)
+
+聞 (Listen/Ask) - きく (Kiku)
+
+言 (Say) - いう (Iu)
+
+読 (Read) - よむ (Yomu)
+
+書 (Write) - かく (Kaku)
+
+食 (Eat) - たべる (Taberu)
+
+飲 (Drink) - のむ (Nomu)
+
+寝 (Sleep) - ねる (Neru)
+
+起 (Wake up) - おきる (Okiru)
+
+着 (Wear/Arrive) - きる (Kiru)
+
+脱 (Take off) - ぬぐ (Nugu)
+
+歩 (Walk) - あるく (Aruku)
+
+立 (Stand) - たつ (Tatsu)
+
+座 (Sit) - すわる (Suwaru)
+
+待 (Wait)
