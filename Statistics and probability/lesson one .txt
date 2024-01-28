@@ -1,0 +1,16 @@
+Exercise 1:
+Consider the following set of data: 12, 15, 18, 20, 22, 25, 30. Calculate the mean, median, and mode for this data set.
+
+Exercise 2:
+The test scores of a group of students in a mathematics class are as follows: 85, 90, 92, 88, 95. Calculate the mean, median, and mode for these test scores.
+
+Exercise 3:
+You have the ages of a group of people: 25, 30, 35, 40, 45, 50. Calculate the mean, median, and mode for this set of ages.
+
+Exercise 4:
+A store recorded the number of daily customers over a week: 30, 35, 40, 45, 40, 38, 36. Calculate the mean, median, and mode for the number of daily customers.
+
+Exercise 5:
+The heights (in inches) of a group of students are: 62, 64, 68, 66, 70, 72. Calculate the mean, median, and mode for this set of heights.
+
+
