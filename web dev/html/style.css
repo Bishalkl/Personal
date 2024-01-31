@@ -10,9 +10,12 @@
     padding: 10px 10px 10px 10px;
     border-radius: 12px; 
     text-align: center;
-    text-decoration: line-through;
     text-decoration-color: blue;
     text-decoration-line: dot;
     text-transform: lowercase;
-    text-indent: 40px; /*it is use for give a gap in left of word*/
+    text-indent:0; /*it is use for give a gap in left of word*/
+    text-shadow: 4px 4px 10px lightblue;
+    font-family: monospace;
+    display: block;
+    
 }

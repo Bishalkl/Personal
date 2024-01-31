@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: ;
+}body{
+    background-color: rgb(178, 194, 189);
+}
+
+
+
+.navbar{
+    background-color: black; 
+    text-align: end;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    
+}
+
+.logo {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: aliceblue;
+    position: absolute;
+    left: 30px;
+    box-shadow: 0 0 10px 5px rgba(135, 206, 250, 0.7);
+}
+
+
+li{
+    display: inline-block;
+    padding: 10px;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+a:link{
+    text-decoration: none;
+    font-size: large;
+    font-style: bold;
+    color: rgb(170, 164, 164);
+    padding: 20px;
+}
+
+a:hover{
+    color: aliceblue;
+}
