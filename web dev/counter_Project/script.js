@@ -13,12 +13,13 @@ increase.onclick= function(){
 }
 
 // function for reset
-reset.onclick = function(){
-    display.textContent = 0;
+reset.onclick= function(){
+    count = 0;
+    display.textContent = count;
 }
 
 // function for decrease
-decrease.onclick = function(){
+decrease.onclick= function(){
     display.textContent = --count;
 }
 
