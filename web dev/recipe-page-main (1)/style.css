@@ -1,3 +1,5 @@
+
+
 /* reset class */
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&family=Young+Serif&display=swap');
 *{
@@ -6,10 +8,14 @@
     box-sizing: border-box;
 }
 
+
+
+
+
 /* global variable */
 :root{
 
-
+    /* for color */
     --Nutmeg:hsl(14, 45%, 36%);
     --Dark-Raspberry:hsl(332, 51%, 32%);
     --White: hsl(0, 0%, 100%);
@@ -18,12 +24,16 @@
     --Light-Grey: hsl(30, 18%, 87%);   
     --Wenge-Brown: hsl(30, 10%, 34%);    
     --Dark-Charcoal: hsl(24, 5%, 18%);
-    --secondary-font:'Outfit', sans-serif;
+
+    /* for font */
     --primary-font:  'Young Serif', serif;
-    --primary-margin: 16px;
-    --primary-padding: 16px;
-    --primary-radius: 16px;
-    --primary-spacing:16px;
+    --secondary-font:'Outfit', sans-serif;
+
+    /* for spacing */
+    --small-spacing:16px;
+    --medium-spacing: 32px;
+    --large-spacing: 48px; 
+
 }
 
 body{
@@ -36,21 +46,29 @@ body{
     position: relative;
 }
 
+
+
+
 /* utility class */
 
 h1{
-    margin-block: var(--primary-spacing);
+    margin-block: var(--small-spacing);
     font-size: 3.8rem;
     font-family: var(--primary-font);
     font-weight: 700;
 }
 
+.flex{
+    display: flex;
+}
+
 p{
     font-size: 1.5rem;
     color: var(--Dark-Charcoal);
-    margin-block: calc(var(--primary-spacing) * 2);
+    margin-block: var(--medium-spacing);
     font-family: var(--secondary-font);
 }
+
 
 h3{
     font-size: 3rem;
@@ -61,9 +79,8 @@ h2{
     font-family: var(--primary-font);
     font-size: 3.7rem;
     font-weight: 400;
-    margin-block: var(--primary-spacing);
+    margin-block: var(--small-spacing);
 }
-
 
 .bold-p{
     color: black;
@@ -73,7 +90,7 @@ h2{
 
 .line{
     width: 100%;
-    margin-block: var(--primary-spacing);
+    margin-block: var(--small-spacing);
     height: 3px;
     background-color: var(--Light-Grey);
 }
@@ -84,17 +101,29 @@ li p{
 
 ol{
     color: var(--Nutmeg);
-
 }
+
+.dot-li{
+    list-style-type: disc;
+}
+
+
+
 /* main container design*/
 main{
     position: absolute;
     width: 60%;
     background-color: var(--White);
     top: 20%;
-    border-radius: calc(var(--primary-spacing) * 3);
-    padding: calc(var(--primary-spacing) * 2);
+    border-radius: var(--large-spacing);
+    padding: var(--medium-spacing);
 }
+
+
+
+
+
+/* --------img part------------------- */
 
 .img-container img{
     width: 100%;
@@ -105,52 +134,74 @@ main{
     border-radius: 16px;
 }
 
+
+
+
+/* --------preparation part----------- */
+
 .preparation-container{
     width: 100%;
     height: 30%;
     background-color: var(--Rose-White);
-    display: flex;
     justify-content: start;
     flex-direction: column;
-    padding: calc(var(--primary-spacing) * 2);
+    padding: var(--medium-spacing);
     border-radius: 16px;
-    margin-block: var(--primary-spacing);
+    margin-block: var(--small-spacing);
 }
 
 .preparation-container h3{
     font-family: var(--secondary-font);
     color: var(--Dark-Raspberry);
-    padding: var(--primary-spacing);
-
+    padding: var(--small-spacing);
 }
 
 .preparation-container ol li{
-    margin-block: var(--primary-spacing);
-    list-style-type: disc;
+    margin-block: var(--small-spacing);
 }
 
 .preparation-container ol{
-    margin-block: var(--primary-spacing);
-    margin-inline: calc(var(--primary-spacing) * 3);
+    margin: var(--small-spacing) var(--large-spacing);
     color: var(--Dark-Charcoal);
 }
 
 
+
+/* -------ingredients part----------------*/
+
 .ingredients-container{
-    margin: var(--primary-spacing) calc(var(--primary-spacing) * 2);
+    margin: var(--small-spacing) var(--medium-spacing);
 }
 
 .ingredients-container ol{
-    margin-block: var(--primary-spacing);
-    list-style-type: disc;
-    padding-block: var(--primary-spacing);
+    margin-block: var(--small-spacing);
+    padding-block: var(--small-spacing);
 }
 
 .instruction-container{
-    margin-block: var(--primary-spacing);
+    margin-block: var(--small-spacing);
 }
 
 .instruction-container ol{
-    margin: var(--primary-spacing);
-    padding: var(--primary-spacing);
+    margin: var(--small-spacing);
+    padding: var(--small-spacing);
 }
+
+
+/* ----------nutrition part -----------------*/
+
+.nutrition-container-value{
+    margin-block: var(--small-spacing);
+    padding: var(--large-spacing);
+}
+
+.value p{
+    width: 40%;
+}
+
+.nutrition-container-value .bold-p{
+    color: var(--Nutmeg);
+}   
+
+
+
